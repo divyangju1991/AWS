@@ -1,8 +1,8 @@
 
 divya@DESKTOP-L6CA3VQ MINGW64 /c/Program Files/Amazon/AWSCLIV2
 $ AWS configure
-AWS Access Key ID [None]: AKIAU676YB5SCXFC65AK
-AWS Secret Access Key [None]: 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
+AWS Access Key ID [None]: 
+AWS Secret Access Key [None]: 
 Default region name [None]: ap-south-1
 Default output format [None]:
 
